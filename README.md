@@ -2,7 +2,7 @@
 
 This project is a simple Proof-of-Concept for finding optimal [ROtating Savings and Credit Association ('ROSCA')](https://en.wikipedia.org/wiki/Rotating_savings_and_credit_association) strategies.
 
-> Check [here](TODO) for a post explaining this project in more detail.
+> Check [here](https://xabif.github.io/pub/2026-10-21-rosca-optimization) for a post explaining this project in more detail.
 
 ## Usage
 
